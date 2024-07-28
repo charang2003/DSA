@@ -1,7 +1,5 @@
 // unique number of occurance
 
-#include <vector>
-
 class Solution
 {
 public:
