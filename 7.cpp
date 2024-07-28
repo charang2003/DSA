@@ -1,4 +1,5 @@
 // reverse integer
+#include <climits>
 
 class Solution
 {
